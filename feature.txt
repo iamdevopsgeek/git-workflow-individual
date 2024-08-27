@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Conflicting change
-=======
 New feature implementation
->>>>>>> feature/new-feature
